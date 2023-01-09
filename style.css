@@ -17,6 +17,13 @@ h1 {
 
 .highlight {
   color: #0088ff;
+
+}
+
+.icon {
+  background: #6a6c97d4;
+  border-radius: 10px;
+  opacity: 1;
 }
 
 hr {
